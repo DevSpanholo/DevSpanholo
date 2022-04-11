@@ -8,7 +8,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-** Junior front-end developer** &#12299;_Systems Analysis and Development Student - UPF_
+** Junior front-end developer ** &#12299;_Systems Analysis and Development Student - UPF_
 <br/>
 
 ----
@@ -17,4 +17,4 @@
   <img align="left" alt="Vinícius Spanholo LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
