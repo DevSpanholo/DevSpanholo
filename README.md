@@ -1,9 +1,21 @@
-### Contatos:
+### Hi, I'm Stefanie! &nbsp;&nbsp;<sup>👾 &#12299;I automate ALL the things. GitOps & DataOps advocate. I test my code. Occasionally, I draw.</sup>
 
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+----
+
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
+![ReactJs](https://img.shields.io/static/v1?logo=react&label=&message=ReactJs&color=111&logoColor=AAA&style=flat-square&link=)
+![ReactNative](https://img.shields.io/static/v1?
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+
+**Senior Data & Platform Engineer** &#12299;_working in Reliability Analytics & Automation_
+<br/>
+**Digital Artist & Creator** &#12299;_specialised in environmental pixel art and 8bit-ish art_
+
+----
+
+<a href="https://www.linkedin.com/in/dev-vinicius-spanholo/">
+  <img align="left" alt="Vinícius Spanholo LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
