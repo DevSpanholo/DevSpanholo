@@ -1,10 +1,10 @@
-### Hi, I'm Stefanie! &nbsp;&nbsp;<sup>👾 &#12299;I automate ALL the things. GitOps & DataOps advocate. I test my code. Occasionally, I draw.</sup>
+### Hi, I'm Vinícius Spanholo! &nbsp;&nbsp;
 
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![ReactJs](https://img.shields.io/static/v1?logo=react&label=&message=ReactJs&color=111&logoColor=AAA&style=flat-square&link=)
-![ReactNative](https://img.shields.io/static/v1?
+![ReactNative](https://img.shields.io/static/v1?logo=react&label=&message=ReactJs&color=111&logoColor=AAA&style=flat-square&link=)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
