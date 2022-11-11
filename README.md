@@ -8,7 +8,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-** Um texto legal...
+** Um texto legal... **
 <br/>
 
 ----
